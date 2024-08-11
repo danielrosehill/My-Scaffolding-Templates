@@ -1,5 +1,7 @@
 # Scaffolding Templates
 
+![Sloth working on construction site](/images/banner.webp)
+
 ## Purpose Statement
 
 This repository hosts scaffolding templates (templates for file and folder structures) which I frequently require.
